@@ -42,7 +42,7 @@
 form .display{
     display: flex;
     justify-content: flex-end;
-    margin-top: 20px 0;
+    margin: 20px 0;
 }
 form .display input{
     text-align: right;
